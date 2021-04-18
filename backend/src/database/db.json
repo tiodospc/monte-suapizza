@@ -1,0 +1,91 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "nome": "Muçarela"
+    },
+    {
+      "id": 2,
+      "nome": "Calabresa"
+    },
+    {
+      "id": 3,
+      "nome": "Margherita",
+      "pontos": 10
+    },
+    {
+      "id": 4,
+      "nome": "Basca"
+    },
+    {
+      "id": 5,
+      "nome": "Portuguesa"
+    }
+  ],
+  "tamanhos": [
+    {
+      "id": 1,
+      "nome": "P - Broto 2 fatias"
+    },
+    {
+      "id": 2,
+      "nome": "M - Média 6 fatias"
+    },
+    {
+      "id": 3,
+      "nome": "G - Grande 8 fatias"
+    },
+    {
+      "id": 4,
+      "nome": "F - Família 10 fatias"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 709,
+      "sabor": "Margherita",
+      "tamanho": "P - Broto 2 fatias",
+      "borda": "cheddar",
+      "massa": "Frita",
+      "pontos": "10",
+      "observacao": "sem cebola",
+      "endereco": "rua consolação",
+      "avaliacao": "gostei bastante",
+      "estrelas": 4
+    },
+    {
+      "id": 442,
+      "sabor": "Margherita",
+      "tamanho": "M - Média 6 fatias",
+      "borda": "23",
+      "massa": "Fina",
+      "pontos": "10",
+      "observacao": "233",
+      "endereco": "123",
+      "avaliacao": "123",
+      "estrelas": 5
+    }
+  ],
+  "massa": [
+    {
+      "nome": "Fina"
+    },
+    {
+      "nome": "Grossa"
+    },
+    {
+      "nome": "Frita"
+    }
+  ],
+  "Acompanhamentos": [
+    {
+      "nome": "refrigerante"
+    },
+    {
+      "nome": "vinho"
+    },
+    {
+      "nome": "suco"
+    }
+  ]
+}
