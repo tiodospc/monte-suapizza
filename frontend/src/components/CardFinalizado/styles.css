@@ -1,0 +1,17 @@
+.card-box-final{
+    width: 400px;
+    height: 400px;
+    background-color: #ffff;
+    margin-top: 10px;
+}
+
+.card-box-final img {
+    width: 300px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+}
+
+.button-redirecionar{
+    width: 100%;
+    margin-left: 50px;
+}

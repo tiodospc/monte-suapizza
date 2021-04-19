@@ -1,0 +1,15 @@
+.card-box .text {
+    font: 400 15px Poppins, sans-serif;
+    color: red;
+}
+
+.card-box .input-observacao{
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.card-box .button-adicionar{
+    width: 100%;
+    padding-bottom: 10px;
+}
+

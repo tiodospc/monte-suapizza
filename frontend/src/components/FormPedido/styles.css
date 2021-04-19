@@ -1,0 +1,39 @@
+.container-formPedido .alert{
+    background-color: #EF330D;
+    padding-bottom: 10px;
+}
+
+
+.card-box{
+    width: 400px;
+    height: 480px;
+    background-color: #ffff;
+    margin-top: 10px;
+}
+
+.card-box img{
+    margin-left: 20px;
+    width: 300px;
+}
+
+.card-box h4 {
+    margin-left: 60px;
+    padding-bottom: 5px;
+    font: 400 15px Poppins, sans-serif;
+    color: red;
+}
+
+.card-box .select{
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.card-box .input-borda{
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.card-box .button-montar{
+    width: 100%;
+    padding-bottom: 10px;
+}
